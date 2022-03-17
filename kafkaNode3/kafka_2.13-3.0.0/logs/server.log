@@ -1,0 +1,3 @@
+[2022-03-16 18:31:05,557] INFO [GroupCoordinator 3]: Member main@Repo-L5 (github.com/segmentio/kafka-go)-91949fe1-044d-435d-8e51-b9dd21e81929 in group my-group has failed, removing it from the group (kafka.coordinator.group.GroupCoordinator)
+[2022-03-16 18:31:05,566] INFO [GroupCoordinator 3]: Preparing to rebalance group my-group in state PreparingRebalance with old generation 7 (__consumer_offsets-12) (reason: removing member main@Repo-L5 (github.com/segmentio/kafka-go)-91949fe1-044d-435d-8e51-b9dd21e81929 on heartbeat expiration) (kafka.coordinator.group.GroupCoordinator)
+[2022-03-16 18:31:05,566] INFO [GroupCoordinator 3]: Group my-group with generation 8 is now empty (__consumer_offsets-12) (kafka.coordinator.group.GroupCoordinator)
